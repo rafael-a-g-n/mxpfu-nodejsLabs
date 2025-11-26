@@ -22,8 +22,8 @@ This project is a simple Node.js application for managing a friends list, demons
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/rafael-a-g-n/mxpfu-nodejsLabs.git
-   cd mxpfu-nodejsLabs
+   git clone https://github.com/rafael-a-g-n/friends-list-api.git
+   cd friends-list-api
    ```
 
 2. **Install dependencies:**
